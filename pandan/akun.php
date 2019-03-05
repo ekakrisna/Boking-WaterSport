@@ -264,7 +264,6 @@
                     ?>
                 <?php endif; ?>
                 </table>
-
             <?php endif; ?>
           </section>
           <footer class="page-footer footer-fixed font-small blue-grey lighten-5">

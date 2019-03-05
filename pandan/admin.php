@@ -28,7 +28,7 @@
                     <div class="collapse navbar-collapse" id="navbarSupportedContent">
                         <ul class="nav navbar-nav ml-auto">
                             <li class="nav-item">
-                                <a class="nav-link" href="index.php">Home</a>
+                                <a class="nav-link" href="../index.php">Home</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="../index.php#games">Activity</a>
@@ -48,7 +48,7 @@
             <br>
             <div class="col-lg-3 center-card text-light">
               <div class="login-logo">
-                <a href="index.php"><b class="text-dark">ADMIN</b> PANDAN SARI</a>
+                <a href="../index.php"><b class="text-dark">ADMIN</b> PANDAN SARI</a>
               </div>
               <div class="login-box-body">
                 <br>

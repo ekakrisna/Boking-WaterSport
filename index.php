@@ -98,7 +98,7 @@
                                 <a class="nav-link" href="#games">Activity</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="view/galeri.php">Galeri</a>
+                                <a class="nav-link" href="#package">Package</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="view/boking.php">Booking</a>
@@ -119,7 +119,8 @@
             <h2 class="text-left">Why Should Choose Us?</h2>
             <p class="text-justify">Kami selalu berusaha memberikan pelayanan terbaik untuk setiap customer kami. Pemesanan cepat, mudah, aman, dan terpercaya! Pemesanan online 24 jam dan support online tersedia via chat (whatsapp & facebook massenger). Kami menawarkan harga hemat, lebih murah dari harga pembelian langsung di lokasi. Tersedia banyak paket promo yang bisa Anda beli dan bisa menghemat biaya. Sistem pembayaran aman dan terpercaya. Kami melayani pembayaran via bank transfer. Kami juga melayani pembayaran via credit card (Visa & Master Card) untuk memudahkan pembayaran Anda.Voucher yang dibeli di www.pandansari.com bisa langsung digunakan ditempat wisata. Voucher akan dikirim via email dan bisa digunakan dengan menunjukkan via smart phone/gadget atau bisa diprint.
             </p>
-            <div class="line" id="games"></div>
+            <div class="" id="games"></div>
+            <div class="line"></div>
             <form name="autoSumForm" class="" action="back-end/insert.php" method="post">
               <h2 class="text-center text-light">Activity</h2>
               <br>
@@ -295,13 +296,13 @@
                     </div>
                   </div>
                 </div>
-                <div class="line" id="games"></div>
+                <div class="line"></div>
                 <h2 class="text-center text-light">Fishing</h2>
                 <br>
                 <div class="row rata">
                   <div class="col-lg-3">
                     <div class="card-basic">
-                      <img class="card-img-top" src="img/fishing.jpg" alt="banana">
+                      <img class="card-img-top" src="img/fishing1.jpg" alt="banana">
                       <div class="card-body">
                         <h6 class="card-title text-center text-light">
                           Trawling Fishing
@@ -314,7 +315,7 @@
                   </div>
                   <div class="col-lg-3">
                     <div class="card-basic">
-                      <img class="card-img-top" src="img/fishing.jpg" alt="banana">
+                      <img class="card-img-top" src="img/fishing2.jpg" alt="banana">
                       <div class="card-body">
                         <h6 class="card-title text-center text-light">
                           Coral Fishing
@@ -327,7 +328,7 @@
                   </div>
                   <div class="col-lg-3">
                     <div class="card-basic">
-                      <img class="card-img-top" src="img/fishing.jpg" alt="banana">
+                      <img class="card-img-top" src="img/fishing3.jpg" alt="banana">
                       <div class="card-body">
                         <h6 class="card-title text-center text-light">
                           Spear Fishing
@@ -339,7 +340,8 @@
                     </div>
                   </div>
                 </div>
-                <div class="line" id="package"></div>
+                <div class=""id="package"></div>
+                <div class="line"></div>
                 <h2 class="text-center text-light">Package</h2>
                 <br>
                 <div class="row rata">
@@ -466,7 +468,7 @@
                       <h6 class="mb-0 text-white">Get connected with us on social networks!</h6>
                     </div>
                     <div class="col-md-6 col-lg-7 text-center text-md-right">
-                      <a href="https://www.instagram.com/pandansari-watersport" class="ins-ic">
+                      <a href="https://www.instagram.com/pandansari_watersport/?hl=id" class="ins-ic">
                         <i class="fab fa-instagram white-text  mr-4" style="color:white;"> </i>
                       </a>
                       <a href="#" class="fb-ic">
@@ -537,7 +539,7 @@
               <div> <a href="#" style="display: table-cell; vertical-align: middle; "class="fab fa-facebook-messenger"></a></div>
               <div> <a href="https://api.whatsapp.com/send?phone=6281353399811&text=Om%20Swastiastu%20Saya%20Mau%20Booking%20Watersport" style="display: table-cell; vertical-align: middle;" class="fab fa-whatsapp"></a></div>
               <div> <a href="#" style="display: table-cell; vertical-align: middle;" class="fab fa-twitter"></a> </div>
-              <div> <a href="https://www.instagram.com/pandansari-watersport/" style="display: table-cell; vertical-align: middle;" class="fab fa-instagram"></a> </div>
+              <div> <a href="https://www.instagram.com/pandansari_watersport/?hl=id" style="display: table-cell; vertical-align: middle;" class="fab fa-instagram"></a> </div>
               <div class='menu'>
                 <div class='share' id='ss_toggle' data-rot='180'>
                   <div class='circle'></div>

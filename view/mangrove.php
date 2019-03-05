@@ -98,7 +98,7 @@
                                 <a class="nav-link" href="../index.php#games">Activity</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="../view/galeri.php">Galeri</a>
+                                <a class="nav-link" href="../index.php#package">Package</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="../view/boking.php">Booking</a>
@@ -212,7 +212,7 @@
                       <h6 class="mb-0 text-white">Get connected with us on social networks!</h6>
                     </div>
                     <div class="col-md-6 col-lg-7 text-center text-md-right">
-                      <a href="https://www.instagram.com/pandansari-watersport" class="ins-ic">
+                      <a href="https://www.instagram.com/pandansari_watersport/?hl=id" class="ins-ic">
                         <i class="fab fa-instagram white-text  mr-4" style="color:white;"> </i>
                       </a>
                       <a href="#" class="fb-ic">
@@ -283,7 +283,7 @@
               <div> <a href="#" style="display: table-cell; vertical-align: middle; "class="fab fa-facebook-messenger"></a></div>
               <div> <a href="https://api.whatsapp.com/send?phone=6281353399811&text=Om%20Swastiastu%20Saya%20Mau%20Booking%20Watersport" style="display: table-cell; vertical-align: middle;" class="fab fa-whatsapp"></a></div>
               <div> <a href="#" style="display: table-cell; vertical-align: middle;" class="fab fa-twitter"></a> </div>
-              <div> <a href="https://www.instagram.com/pandansari-watersport/" style="display: table-cell; vertical-align: middle;" class="fab fa-instagram"></a> </div>
+              <div> <a href="https://www.instagram.com/pandansari_watersport/?hl=id" style="display: table-cell; vertical-align: middle;" class="fab fa-instagram"></a> </div>
               <div class='menu'>
                 <div class='share' id='ss_toggle' data-rot='180'>
                   <div class='circle'></div>
